@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="assets/clashmaclogo.png" alt="ClashMac Screenshot" width="300">
+  <img src="assets/clashmaclogo.png" alt="ClashMac Screenshot" width="300" style="filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.15));">
 </p>
 <h1 align="center">ClashMac</h1>
 <h3 align="center" style="margin-top: 0; margin-bottom: 20px;">轻量级 macOS Clash 菜单栏客户端</h3>
