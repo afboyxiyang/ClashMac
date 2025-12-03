@@ -27,6 +27,7 @@
 - **实时流量监控** - SSE 推送，毫秒级更新
 - **可视化面板** - 流量统计、连接数、内存使用
 - **Web Dashboard** - 集成控制面板访问
+- **应用内更新** - 自动检测新版本并支持一键下载与安装
 
 ## 下载
 
@@ -35,7 +36,7 @@
 - **Apple Silicon (M1/M2/M3/M4)**: `ClashMac-v*-macos-arm64.zip`
 - **Intel Mac**: `ClashMac-v*-macos-x86_64.zip`
 
-**兼容配置方案**：请参阅 [测试专用配置](https://github.com/666OS/YYDS/tree/main/mihomo/config)
+**兼容方案**：请参阅 [测试配置](https://github.com/666OS/YYDS/tree/main/mihomo/config)
 
 **安装步骤**：
 1. 解压下载的 zip 文件
